@@ -15,4 +15,4 @@ spring:
     database-platform: org.hibernate.dialect.MySQLDialect
     
   application:
-    name: CITIZEN-SERVICE
+    name: CitizenService
